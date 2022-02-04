@@ -1,2 +1,1 @@
-Isso é um teste.
-teste 2, teste 3
+Aprendendo como utilizar o Github.
